@@ -21,4 +21,4 @@ dependencies:
   - nbgitpuller
   - vedo==2021.0.5
   - pip:
-     - git+https://github.com/theia-dev/Qiber3D.git@dev#egg=Qiber3D
+     - Qiber3D
